@@ -1,7 +1,10 @@
-32c7dc10f63adaf7a227b7601d1dd849dcffd59a@52.56.79.176:26656
-ed8853e932e8577a2cc78594d827312152b4c1a4@13.40.126.55:26656
-5905ea723c632fc646d346e57bf37150a5c21283@18.132.37.160:26656
-1fcfb22291c01f9f7eafbc7bcbc8af4d6ca9faa1@35.178.250.39:26656
-54f4a173ccfa6797287f4c65e4e22fdbb562946e@13.40.61.192:26656
-e46647067e855f8b3887a3a34b5dcd35c831d46c@3.8.215.9:26656
-1058b6f635e38b8d03e57d6e8b6306d260637055@52.56.180.10:26656
+a91aec8c83957561eefb89f66558d9b561dcec55@evm-sidechain-validator-0.peersyst.tech:26656
+f00b27159fc247c8e80d5495073f12a430d887de@evm-sidechain-validator-1.peersyst.tech:26656
+27b9b345ff32adbe59262b9c60e9fb5ecb312dc8@evm-sidechain-validator-2.peersyst.tech:26656
+150d7cc529283832ec9a0d317e86bdf0df0de7f1@evm-sidechain-validator-3.peersyst.tech:26656
+bc19ff3dafa9184188e93b0ce6c8e9017101d87e@evm-sidechain-validator-4.peersyst.tech:26656
+6efd634ab66197c6508fefa1b698180e207e1eb5@evm-sidechain-validator-5.peersyst.tech:26656
+f3bd3efd385246556fc819ff7732d176c88d5fca@evm-sidechain-validator-6.peersyst.tech:26656
+055597ce3843786104e23b2dea7aa1d8cab00c83@evm-sidechain-validator-7.peersyst.tech:26656
+3abadd5b5ba5114c48a0ec94b8001769be7f2afe@evm-sidechain-validator-8.peersyst.tech:26656
+46b21b8974cd2e244a6d45e3b5123c257a654f5f@evm-sidechain-validator-9.peersyst.tech:26656
